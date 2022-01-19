@@ -68,6 +68,7 @@ header .icons .fa-search {
   background-color: var(--black-color);
   position: sticky;
   top: 0;
+  display: flex;
 }
 .player video {
   width: 100%;
